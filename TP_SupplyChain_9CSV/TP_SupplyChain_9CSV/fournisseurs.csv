@@ -1,0 +1,101 @@
+id_fournisseur,raison_sociale,ville,pays,email
+1,Dell Technologies France,Montpellier,France,contact.fr@dell.com
+2,HP Enterprise France,Grenoble,France,contact.fr@hpe.com
+3,Lenovo France,Paris,France,contact.fr@lenovo.com
+4,Cisco Systems France,Issy-les-Moulineaux,France,contact.fr@cisco.com
+5,Logitech Europe SA,Lausanne,Suisse,contact.ch@logitech.com
+6,Zebra Technologies France,Valence,France,contact.fr@zebra.com
+7,Honeywell Productivity Solutions,Roissy-en-France,France,contact.fr@honeywell.com
+8,Schneider Electric France,Rueil-Malmaison,France,contact@se.com
+9,Siemens France,Saint-Denis,France,contact.fr@siemens.com
+10,ABB France,Cergy,France,contact.fr@abb.com
+11,Brother France,Roissy-en-France,France,contact@brother.fr
+12,Epson France,Levallois-Perret,France,contact@epson.fr
+13,ASUS France,Noisy-le-Grand,France,contact.fr@asus.com
+14,Acer Computer France,Villepinte,France,contact.fr@acer.com
+15,Fujitsu France,Paris,France,contact.fr@fujitsu.com
+16,DHL Supply Chain France,Marseille,France,contact.fr@dhl.com
+17,GXO Logistics France,Lyon,France,contact.fr@gxo.com
+18,Kuehne+Nagel France,Paris,France,contact.fr@kuehne-nagel.com
+19,Datalogic France,Nanterre,France,contact.fr@datalogic.com
+20,Manutan France,Gonesse,France,contact@manutan.fr
+21,Ingram Micro Germany,Munich,Allemagne,contact.de@ingrammicro.com
+22,TD SYNNEX Germany,Berlin,Allemagne,contact.de@tdsynnex.com
+23,Arrow Electronics Germany,Frankfurt,Allemagne,contact.de@arrow.com
+24,Westcon-Comstor Germany,Cologne,Allemagne,contact.de@westcon.com
+25,Exclusive Networks France,Boulogne-Billancourt,France,contact@exclusive-networks.com
+26,Rexel Belgium,Bruxelles,Belgique,contact.be@rexel.com
+27,Sonepar Spain,Madrid,Espagne,contact.es@sonepar.com
+28,RS Components UK,London,Royaume-Uni,contact.uk@rs-online.com
+29,Conrad Electronic,Germania,Allemagne,contact@conrad.de
+30,Orange Business,Paris,France,contact@orange-business.com
+31,Bouygues Telecom Entreprises,Meudon,France,contact@bouyguestelecom.fr
+32,SFR Business,Saint-Denis,France,contact@sfrbusiness.fr
+33,Geodis,Levallois-Perret,France,contact@geodis.com
+34,XPO Logistics Spain,Valencia,Espagne,contact.es@xpo.com
+35,DB Schenker Germany,Essen,Allemagne,contact.de@dbschenker.com
+36,FM Logistic,Phalsbourg,France,contact@fm-logistic.com
+37,ID Logistics,Orgon,France,contact@id-logistics.com
+38,CEVA Logistics Netherlands,Rotterdam,Pays-Bas,contact.nl@cevalogistics.com
+39,STEF France,Paris,France,contact@stef.com
+40,Raja France,Tremblay-en-France,France,contact@raja.fr
+41,Bruneau France,Villebon-sur-Yvette,France,contact@bruneau.fr
+42,Lyreco France,Valenciennes,France,contact@lyreco.com
+43,Paprec Group,Paris,France,contact@paprec.com
+44,Veolia France,Aubervilliers,France,contact@veolia.com
+45,Suez France,Paris,France,contact@suez.com
+46,Legrand France,Limoges,France,contact@legrand.fr
+47,Eaton Ireland,Dublin,Irlande,contact.ie@eaton.com
+48,Panduit Netherlands,Eindhoven,Pays-Bas,contact.nl@panduit.com
+49,HPE Aruba Networking,Amsterdam,Pays-Bas,contact.nl@hpe.com
+50,Juniper Networks Germany,Hambourg,Allemagne,contact.de@juniper.net
+51,Fortinet France,Paris,France,contact@fortinet.com
+52,Palo Alto Networks France,Paris,France,contact@paloaltonetworks.com
+53,VMware Ireland,Cork,Irlande,contact.ie@vmware.com
+54,Red Hat Germany,Munich,Allemagne,contact.de@redhat.com
+55,SAP SE,Walldorf,Allemagne,contact@sap.com
+56,Oracle France,Colombes,France,contact@oracle.com
+57,Microsoft France,Issy-les-Moulineaux,France,contact@microsoft.com
+58,IBM France,Bois-Colombes,France,contact@ibm.com
+59,Atos France,Bezons,France,contact@atos.net
+60,Capgemini France,Paris,France,contact@capgemini.com
+61,Sopra Steria,Annecy,France,contact@soprasteria.com
+62,Inetum France,Saint-Ouen,France,contact@inetum.com
+63,CGI Belgium,Bruxelles,Belgique,contact.be@cgi.com
+64,Accenture Spain,Barcelona,Espagne,contact.es@accenture.com
+65,Wipro Germany,Berlin,Allemagne,contact.de@wipro.com
+66,TCS Netherlands,Amsterdam,Pays-Bas,contact.nl@tcs.com
+67,NCR Voyix France,Paris,France,contact@ncrvoyix.com
+68,Zetes Belgium,Bruxelles,Belgique,contact@zetes.com
+69,Generix Group,Paris,France,contact@generixgroup.com
+70,Hardis Group,Grenoble,France,contact@hardis-group.com
+71,SAVOYE,Dijon,France,contact@savoye.com
+72,Dematic Germany,Heusenstamm,Allemagne,contact.de@dematic.com
+73,Jungheinrich AG,Hambourg,Allemagne,contact@jungheinrich.com
+74,Still GmbH,Hambourg,Allemagne,contact@still.de
+75,Fenwick-Linde,Elancourt,France,contact@fenwick-linde.fr
+76,Toyota Material Handling Europe,Bruxelles,Belgique,contact@tmhe.com
+77,Crown Equipment Germany,Munich,Allemagne,contact.de@crown.com
+78,Kardex AG,Zurich,Suisse,contact@kardex.com
+79,SSI Schaefer,Giebelstadt,Allemagne,contact@ssi-schaefer.com
+80,Mecalux Spain,Barcelona,Espagne,contact@mecalux.com
+81,Bito Lagertechnik,Meisenheim,Allemagne,contact@bito.com
+82,Antalis France,Paris,France,contact@antalis.fr
+83,DS Smith Packaging,London,Royaume-Uni,contact@dssmith.com
+84,Smurfit Westrock,Dublin,Irlande,contact@smurfitwestrock.com
+85,Mondi Packaging,Vienna,Autriche,contact@mondigroup.com
+86,UPS France,Corbeil-Essonnes,France,contact@ups.com
+87,FedEx Express France,Roissy-en-France,France,contact@fedex.com
+88,TNT Express Netherlands,Utrecht,Pays-Bas,contact.nl@tnt.com
+89,GLS Germany,Bonn,Allemagne,contact.de@gls.com
+90,DPD France,Issy-les-Moulineaux,France,contact@dpd.fr
+91,Amazon Business Europe,Luxembourg,Luxembourg,contact@amazonbusiness.com
+92,Cdiscount Pro,Bordeaux,France,contact@cdiscount.com
+93,UGAP,Champs-sur-Marne,France,contact@ugap.fr
+94,Bureau Vallee Pro,Les Clayes-sous-Bois,France,contact@bureau-vallee.fr
+95,Seton Europe,Hambourg,Allemagne,contact@seton.com
+96,PostNL,Amsterdam,Pays-Bas,contact@postnl.nl
+97,Bpost Bruxelles,Bruxelles,Belgique,contact@bpost.be
+98,Correos Express,Madrid,Espagne,contact@correos.es
+99,GLS Spain,Madrid,Espagne,contact.es@gls.com
+100,Dachser SE,Kempten,Allemagne,contact@dachser.com

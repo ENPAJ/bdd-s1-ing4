@@ -1,0 +1,21 @@
+id_employe,nom,prenom,fonction,email
+1,Martin,Julie,Gestionnaire des stocks,julie.martin@techdistrib.fr
+2,Durand,Paul,Responsable achats,paul.durand@techdistrib.fr
+3,Bernard,Sophie,Gestionnaire des stocks,sophie.bernard@techdistrib.fr
+4,Petit,Thomas,Approvisionneur,thomas.petit@techdistrib.fr
+5,Robert,Emma,Approvisionneur,emma.robert@techdistrib.fr
+6,Richard,Nicolas,Responsable entrepot,nicolas.richard@techdistrib.fr
+7,Garcia,Laura,Gestionnaire logistique,laura.garcia@techdistrib.fr
+8,Moreau,Hugo,Responsable transport,hugo.moreau@techdistrib.fr
+9,Fournier,Chloe,Approvisionneur,chloe.fournier@techdistrib.fr
+10,Girard,Lucas,Responsable achats,lucas.girard@techdistrib.fr
+11,Andre,Manon,Gestionnaire des stocks,manon.andre@techdistrib.fr
+12,Lefevre,Antoine,Responsable qualite,antoine.lefevre@techdistrib.fr
+13,Mercier,Camille,Gestionnaire logistique,camille.mercier@techdistrib.fr
+14,Dupont,Maxime,Responsable entrepot,maxime.dupont@techdistrib.fr
+15,Roux,Ines,Approvisionneur,ines.roux@techdistrib.fr
+16,Vincent,Alexandre,Coordinateur Supply Chain,alexandre.vincent@techdistrib.fr
+17,Faure,Sarah,Coordinateur Supply Chain,sarah.faure@techdistrib.fr
+18,Bonnet,Leo,Gestionnaire des stocks,leo.bonnet@techdistrib.fr
+19,Lambert,Julie,Responsable previsions,julie.lambert@techdistrib.fr
+20,Francois,Mathis,Analyste Supply Chain,mathis.francois@techdistrib.fr
